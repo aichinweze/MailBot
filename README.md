@@ -2,7 +2,8 @@ MailBot
 =======
 
 This application was formed the user interface and a key system element in the prototype for an autonomous mail delivery system named "MailBot".
-At a high-level view, the application had two modes of operation: collection mode and delivery mode. 
+The main code and layout resources can be found here `interface/mailbot/app/src/main/` At a high-level view, the application had two modes of 
+operation: collection mode and delivery mode. 
 
 Collection Mode
 ---------------
